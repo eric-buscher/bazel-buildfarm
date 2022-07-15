@@ -136,7 +136,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<docker.image.prefix>bazelbuild/buildfarm-admin</docker.image.prefix>
-		<awsSdkVersion>1.11.970</awsSdkVersion>
+		<awsSdkVersion>1.12.261</awsSdkVersion>
 	</properties>
 
 	<build>
